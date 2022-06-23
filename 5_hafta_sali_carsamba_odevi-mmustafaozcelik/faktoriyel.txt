@@ -1,0 +1,9 @@
+
+		// Scanner scanner = new Scanner(System.in);
+		// System.out.println("Lütfen Bir Sayi Giriniz : ");
+		// int fak = scanner.nextInt();
+		// long res = 1L;
+		// for (int i = fak; i > 0; i--) {
+		// res = res * i;
+		// }
+		// System.out.println(fak + "! = " + res);

@@ -1,0 +1,20 @@
+Asal sayı
+		// Scanner scanner = new Scanner(System.in);
+		// System.out.println("Lütfen Bir Sayi Giriniz : ");
+		// int number = scanner.nextInt();
+		// if (number == 1) {
+		// System.out.println("Girdiğiniz sayi 1 dir");
+		// } else if (number < 0) {
+		// System.out.println("Girdiğiniz Sayi Negatiftir");
+		// } else if (number == 2) {
+		// System.out.println("2 sayisi Asaldir");
+		// } else {
+		// for (int i = 2; i < number; i++) {
+		// if (number % i == 0) {
+		// System.out.println(number + "Sayisi asal degildir");
+		// break;
+		// } else if ((number - 1) == i) {
+		// System.out.println(number + "Sayisi asaldir");
+		// }
+		// }
+		// }

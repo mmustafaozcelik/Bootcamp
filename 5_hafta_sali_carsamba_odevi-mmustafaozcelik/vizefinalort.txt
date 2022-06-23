@@ -1,0 +1,20 @@
+Vize Final Ortalaması
+		// Scanner scanner = new Scanner(System.in);
+		// System.out.println("Lütfen vize notunu giriniz : ");
+		// int vizenotu = scanner.nextInt();
+		// System.out.println("Lütfen final notunu giriniz : ");
+		// int finalnot = scanner.nextInt();
+		//
+		// float ort = (vizenotu + finalnot) / 2;
+		//
+		// if (ort < 50) {
+		// System.out.println("Geçti");
+		// } else if (50 <= ort && ort <= 70) {
+		// System.out.println("Ortlaması : " + ort + "/n Öğrenci Geçti Notu BB");
+		// } else if (70 < ort && ort <= 84) {
+		// System.out.println("Ortlaması : " + ort + "/n Öğrenci Geçti Notu BA");
+		// } else if (84 < ort && ort <= 100) {
+		// System.out.println("Ortlaması : " + ort + "/n Öğrenci Geçti Notu AA");
+		// } else {
+		// System.out.println("Tanımsız ortalama");
+		// }
