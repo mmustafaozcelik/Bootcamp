@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="form.html" method="get" autocomplete="on">
+        <div>
+            <label for="adi">Name:</label>
+            <input type="text" id="adi" name="adi" placeholder="your name" required autofocus />
+        </div>
+        <br>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="your email" required/>
+        </div>
+        <br>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required/>
+        </div>
+        <br>
+        <div>
+            <label for="gender">Gender:</label>
+            <input type="radio" id="male" name="gender"/>
+            <label for="bayan">Male</label>
+
+            <input type="radio" id="female" name="gender"/>
+            <label for="female">Female</label>
+
+            <input type="radio" id="other" name="gender" />
+            <label for="other">Other</label>
+        </div>
+        <br>
+        <div>
+            <select name="select" id="select" >
+                <option value="0" >Select Language</option>
+                <option value="language1" >Turkish</option>
+                <option value="language2" >English</option>
+                <option value="language3" >French</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="zipcode">Zip Code:</label>
+            <input type="zipcode" id="zipcode" name="zipcode"/>
+        </div>
+        <br>
+        <div>
+            <label for="about">About:</label>
+            <textarea id="about" name="about" rows="3" cols="30" placeholder="White about yourself..." ></textarea>
+        </div>
+        <br>
+        <div>
+            <input type="submit" value="REGİSTER">
+        </div>
+
+    </form>
+</body>
+</html>

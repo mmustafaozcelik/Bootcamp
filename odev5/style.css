@@ -1,0 +1,44 @@
+
+#div1{
+    padding-top: 10%;
+    padding-left: 16%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 100vh;
+    width: 100h;
+    background-color: rgb(228, 152, 152);
+}
+form{
+    margin-left: 12%;
+    margin-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    padding: 5%;
+    border-radius: 1%;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    position: absolute;
+    height:40vh;
+    background-color: rgb(235, 11, 11);
+}
+#adi , #email {
+    margin-left: 11%;
+}
+#zipcode {
+    margin-left: 3%;
+}
+input {
+    margin-left: 2%;
+}
+#select {
+ margin-left: 27%;
+}
+#register {
+    margin-left: 30%;
+    border-top-left-radius: 6%;
+    border-top-right-radius: 6%;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 6%;
+}

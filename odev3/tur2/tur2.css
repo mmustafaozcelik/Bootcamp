@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+div{
+     border: 3px;
+     border-style: solid;
+     border-color: red;
+}
+.float{
+    border: 2px;
+    
+    background-color: black;
+     border-style: solid;
+
+}
+
+#p1 {
+    
+    width:25%;
+    color: blue;
+    border-color: yellow;
+    display: inline-block;
+}
+
+#p2 {
+    float: right;
+    width:25%;
+    color: blue;
+    margin-right: 10px;
+    border-color: yellow;
+    display: inline-block;
+
+}

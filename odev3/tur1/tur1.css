@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+div{
+margin-top: 20%;
+ border: 3px;
+ border-style: solid;
+ border-color: blue;
+}
+
+#div1{
+    float:left;
+    margin-right: 15px;
+    width:45%;
+    height:200px;
+    display:inline-block;
+    border-radius: 50%;
+}
+
+#div2{
+    float: right;
+    margin-right: 15px;
+    width:45%;
+    height:200px;
+    display:inline-block;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 4%;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 8%;
+}
